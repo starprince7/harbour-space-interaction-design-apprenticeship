@@ -4,7 +4,7 @@ import { Stack } from "../ui";
 
 function HeroSection() {
   return (
-    <div className="h-screen sm:h-[70vh] grid sm:place-items-center">
+    <div className="sm:h-[70vh] grid sm:place-items-center">
       <ApprenticeshipUI />
     </div>
   );
